@@ -13,8 +13,6 @@ This project analyzes retail sales data using SQL in PostgreSQL. The goal is to 
 - `problem_1_profit_by_category.sql` — SQL query to find top product categories by profit margin.
 - `problem_2_monthly_revenue_trends.sql` — SQL query analyzing monthly revenue and transaction trends.
 - `problem_3_customer_segment_analysis.sql` — SQL query examining customer age and gender segments.
-- (Optional) `sample_data.csv` — Sample dataset (if available).
-- (Optional) `/images` — Folder containing visualizations or screenshots.
 
 ## How to Run
 1. Load the dataset into a PostgreSQL database.
